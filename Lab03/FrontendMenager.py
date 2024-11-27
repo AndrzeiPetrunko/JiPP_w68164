@@ -1,5 +1,5 @@
-from zad01.EmployeesMenager import *
-from zad01.Utility import *
+from EmployeesMenager import *
+from Utility import *
 
 
 class FrontendMenager:

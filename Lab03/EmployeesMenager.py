@@ -1,4 +1,4 @@
-from zad01.Employee import Employee
+from Employee import Employee
 
 
 class EmployeesMenager:
