@@ -25,4 +25,4 @@ graph = {'A':['B'],
          'F':['E', 'D'],
          'J':['E']}
 
-print(BFS(graph, 'A', 'F'))
+print(BFS(graph, 'B', 'F'))
