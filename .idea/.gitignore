@@ -6,3 +6,15 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Ignorowanie plików Visual Studio
+.vs/
+*.user
+*.suo
+
+# Ignorowanie plików Python
+__pycache__/
+*.pyc
+
+# Ignorowanie plików binarnych i tymczasowych
+bin/
+obj/
