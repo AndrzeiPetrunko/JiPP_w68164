@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lDQ+fc3JaoSmus61TKlCPK9BPpNJXWmqdSqLoWUgeoXq9GmXc+se68bN8cYZieceUxH0g0gYBhl/+s7c4tkyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andri\\Desktop\\Lab04\\Lab04.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andri\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
